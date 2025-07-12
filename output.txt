@@ -1,0 +1,5 @@
+Number of cheeses: 1042
+Number of cheeses that are organic and over 40.1% moisture: 57
+Number of pasteurized cheeses: 800
+Number of raw cheeses: 115
+Animal that most cheeses are made from: cow at 743 cheeses
